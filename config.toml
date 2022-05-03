@@ -1,4 +1,4 @@
-baseURL = 'https://alparslanba.github.io/Final_Social_Data/'
+baseURL = "https://alparslanba.github.io/Final_Social_Data/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
