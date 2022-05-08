@@ -16,6 +16,14 @@ hideComments : true
 
 # Fire Data set analysis
 
+<iframe src="https://rawcdn.githack.com/AlparslanBA/Final_Social_Data/aec9237910e5bd69f2edc3b2fd4a83f8bb9c1eb3/content/posts/map.html"
+	sandbox="allow-same-origin allow-scripts"
+	width="100%"
+	height="500"
+	scrolling="no"
+	seamless="seamless"
+	frameborder="0">
+</iframe>
 
     -
 
