@@ -2,7 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alparslanba.github.io/Final_Social_Data/posts/my-first-post/</loc>
+    <loc>https://alparslanba.github.io/Final_Social_Data/posts/01_title/</loc>
+    <lastmod>2022-05-03T09:43:07+02:00</lastmod>
+  </url><url>
+    <loc>https://alparslanba.github.io/Final_Social_Data/posts/my-first-post-copy/</loc>
     <lastmod>2022-05-03T09:43:07+02:00</lastmod>
   </url><url>
     <loc>https://alparslanba.github.io/Final_Social_Data/</loc>

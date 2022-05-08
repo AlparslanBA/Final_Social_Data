@@ -9,10 +9,23 @@
     <lastBuildDate>Tue, 03 May 2022 09:43:07 +0200</lastBuildDate><atom:link href="https://alparslanba.github.io/Final_Social_Data/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Final assignment</title>
-      <link>https://alparslanba.github.io/Final_Social_Data/posts/my-first-post/</link>
+      <link>https://alparslanba.github.io/Final_Social_Data/posts/01_title/</link>
       <pubDate>Tue, 03 May 2022 09:43:07 +0200</pubDate>
       
-      <guid>https://alparslanba.github.io/Final_Social_Data/posts/my-first-post/</guid>
+      <guid>https://alparslanba.github.io/Final_Social_Data/posts/01_title/</guid>
+      <description>ss Test2 med noget tekst og sådan </description>
+      <content>&lt;h2 id=&#34;ss&#34;&gt;ss&lt;/h2&gt;
+&lt;p&gt;Test2 med noget tekst og sådan
+&lt;img src=&#34;https://alparslanba.github.io/Final_Social_Data//08-05-22-09-33-36.png&#34; alt=&#34;Test&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Final assignment</title>
+      <link>https://alparslanba.github.io/Final_Social_Data/posts/my-first-post-copy/</link>
+      <pubDate>Tue, 03 May 2022 09:43:07 +0200</pubDate>
+      
+      <guid>https://alparslanba.github.io/Final_Social_Data/posts/my-first-post-copy/</guid>
       <description>Test2 med noget tekst og sådan </description>
       <content>&lt;p&gt;Test2 med noget tekst og sådan
 &lt;img src=&#34;https://alparslanba.github.io/Final_Social_Data//08-05-22-09-33-36.png&#34; alt=&#34;Test&#34;&gt;&lt;/p&gt;
