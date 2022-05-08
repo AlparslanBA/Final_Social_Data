@@ -12,5 +12,5 @@ readingTime = false
 hideComments = false
 +++
 
-Test med noget tekst og sådan
+Test2 med noget tekst og sådan
 ![Test]({{< baseurl >}}/08-05-22-09-33-36.png)
