@@ -5,30 +5,31 @@
     <link>https://alparslanba.github.io/Final_Social_Data/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 03 May 2022 09:43:07 +0200</lastBuildDate><atom:link href="https://alparslanba.github.io/Final_Social_Data/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://alparslanba.github.io/Final_Social_Data/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Final assignment</title>
+      <title></title>
       <link>https://alparslanba.github.io/Final_Social_Data/posts/01_title/</link>
-      <pubDate>Tue, 03 May 2022 09:43:07 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alparslanba.github.io/Final_Social_Data/posts/01_title/</guid>
-      <description>ss Test2 med noget tekst og sådan </description>
-      <content>&lt;h2 id=&#34;ss&#34;&gt;ss&lt;/h2&gt;
-&lt;p&gt;Test2 med noget tekst og sådan
-&lt;img src=&#34;https://alparslanba.github.io/Final_Social_Data//08-05-22-09-33-36.png&#34; alt=&#34;Test&#34;&gt;&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Final assignment</title>
-      <link>https://alparslanba.github.io/Final_Social_Data/posts/my-first-post-copy/</link>
-      <pubDate>Tue, 03 May 2022 09:43:07 +0200</pubDate>
-      
-      <guid>https://alparslanba.github.io/Final_Social_Data/posts/my-first-post-copy/</guid>
-      <description>Test2 med noget tekst og sådan </description>
-      <content>&lt;p&gt;Test2 med noget tekst og sådan
-&lt;img src=&#34;https://alparslanba.github.io/Final_Social_Data//08-05-22-09-33-36.png&#34; alt=&#34;Test&#34;&gt;&lt;/p&gt;
+      <description>Introduction Bla bla bla bla this and that- Fire Data set analysis - Is poverty a part of the causes?? - Prediction - </description>
+      <content>&lt;p&gt;&lt;img src=&#34;https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;dpr=2&amp;amp;h=650&amp;amp;w=940&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;Bla bla bla bla this and that
+
+
+-
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;fire-data-set-analysis&#34;&gt;Fire Data set analysis&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;-
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;is-poverty-a-part-of-the-causes&#34;&gt;Is poverty a part of the causes??&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;-
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;prediction&#34;&gt;Prediction&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://alparslanba.github.io/Final_Social_Data//08-05-22-09-33-36.png&#34; alt=&#34;Test&#34;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;-
+&lt;/code&gt;&lt;/pre&gt;
 </content>
     </item>
     
