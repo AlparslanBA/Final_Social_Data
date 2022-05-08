@@ -13,8 +13,10 @@
       <pubDate>Tue, 03 May 2022 09:43:07 +0200</pubDate>
       
       <guid>https://alparslanba.github.io/Final_Social_Data/posts/my-first-post/</guid>
-      <description></description>
-      <content></content>
+      <description>Test med noget tekst og sådan </description>
+      <content>&lt;p&gt;Test med noget tekst og sådan
+&lt;img src=&#34;https://alparslanba.github.io/Final_Social_Data//08-05-22-09-33-36.png&#34; alt=&#34;Test&#34;&gt;&lt;/p&gt;
+</content>
     </item>
     
   </channel>
