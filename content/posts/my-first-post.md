@@ -1,9 +1,9 @@
 +++
-title = "My First Post"
+title = "Final assignment"
 date = "2022-05-03T09:43:07+02:00"
-author = ""
+author = "Alen, Alparslan, Simon"
 authorTwitter = "" #do not include @
-cover = ""
+cover = "Tester"
 tags = ["", ""]
 keywords = ["", ""]
 description = ""
