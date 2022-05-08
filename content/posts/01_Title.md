@@ -9,11 +9,12 @@ hideComments : true
 # Introduction
     Bla bla bla bla this and that
 
+{{< include-html "test.html" >}}
+
 
     -
 
 # Fire Data set analysis
-
 
 
     -

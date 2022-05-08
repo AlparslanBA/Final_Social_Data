@@ -4,6 +4,12 @@ title = 'My New Hugo Site'
 theme = "ananke"
 publishDir = "docs"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
 [params]
     fullWidthTheme = true
     themeColor = "red"
