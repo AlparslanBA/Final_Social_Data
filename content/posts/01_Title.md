@@ -15,8 +15,14 @@ hideComments : true
     -
 
 # Fire Data set analysis
+    This section will focus on 
 
-<iframe src="https://rawcdn.githack.com/AlparslanBA/Final_Social_Data/aec9237910e5bd69f2edc3b2fd4a83f8bb9c1eb3/content/posts/map.html"
+ ![Test]({{< baseurl >}}/part1.png)
+
+
+ ![Test]({{< baseurl >}}/part2.png)
+
+<iframe src="https://wlindgreen.github.io/BicyclingInCopenhagen/13CS_map.html"
 	sandbox="allow-same-origin allow-scripts"
 	width="100%"
 	height="500"
@@ -28,7 +34,7 @@ hideComments : true
     -
 
 # Is poverty a part of the causes??
-
+    This section tries to investigate if poverty and other socieconomics factors does pay a part in the casus of fires.
 
 
     -
