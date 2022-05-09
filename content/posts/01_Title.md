@@ -22,7 +22,9 @@ hideComments : true
 
  ![Test]({{< baseurl >}}/part2.png)
 
-<iframe src="https://wlindgreen.github.io/BicyclingInCopenhagen/13CS_map.html"
+## Ill Causes
+
+<iframe src="https://rawcdn.githack.com/AlparslanBA/Final_Social_Data/53d94b9e51a622b54b824c5517a5e64ac0046e27/static/html/natueral_map.html"
 	sandbox="allow-same-origin allow-scripts"
 	width="100%"
 	height="500"
