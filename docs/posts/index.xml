@@ -14,14 +14,16 @@
       <guid>https://alparslanba.github.io/Final_Social_Data/posts/01_title/</guid>
       <description>Technical details This small chapter provides usefull links!
 A click on this takes will take you to the websites github!
-This will take you to the wildfire database
-This will take you to the poverty database
-Introduction Wildfire is the term used to describe an uncontrolled fire. If let lose these could potentially have devasting and life threating consequences of people, towns and environment effected by the fire. Besides the fire itself being dangerous it also heavily increases the air pollution[1] which could lead to long complications or even death[2].</description>
+This will take you to the original wildfire database
+This will take you to the original poverty database
+This will take you to a drive containing the used databases(they are modified) and the notebook
+Introduction Wildfire is the term used to describe an uncontrolled fire. If let lose these could potentially have devasting and life threating consequences of people, towns and environment effected by the fire.</description>
       <content>&lt;h2 id=&#34;technical-details&#34;&gt;Technical details&lt;/h2&gt;
 &lt;p&gt;This small chapter provides usefull links!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/AlparslanBA/Final_Social_Data&#34;&gt;A click on this takes will take you to the websites github!&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires/code&#34;&gt;This will take you to the wildfire database&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.openintro.org/data/?data=county_complete&#34;&gt;This will take you to the poverty database&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires/code&#34;&gt;This will take you to the original wildfire database&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.openintro.org/data/?data=county_complete&#34;&gt;This will take you to the original poverty database&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1srLEJzDa4cwPYw0FIF2fQwZRyUT-p54n&#34;&gt;This will take you to a drive containing the used databases(they are modified) and the notebook&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Wildfire is the term used to describe an uncontrolled fire. If let lose these could potentially have devasting and life threating consequences of people, towns and environment effected by the fire. Besides the fire itself being dangerous it also heavily increases the air pollution&lt;a href=&#34;https://www.epa.gov/air-research/wildland-fire-research-health-effects-research&#34;&gt;[1]&lt;/a&gt; which could lead to long complications or even death&lt;a href=&#34;https://www.who.int/health-topics/wildfires#tab=tab_1&#34;&gt;[2]&lt;/a&gt;. Burning of green areas also lead to increase of greenhouse grass emission which negativity impacts the climate and global warming&lt;a href=&#34;https://www.who.int/health-topics/wildfires#tab=tab_1&#34;&gt;[2]&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The importance of trying to predict and prevent wildfires is enough reason for us to try and investigate this event. By exploring a potential connection between poverty level and wildfires we would be able to see if there is a group of people in a bigger risk to the devastating consequences. This could also be used to argument for investing in fire safety in these areas if a correlation is found. 

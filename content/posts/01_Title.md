@@ -10,9 +10,11 @@ This small chapter provides usefull links!
 
 [A click on this takes will take you to the websites github!](https://github.com/AlparslanBA/Final_Social_Data)
 
-[This will take you to the wildfire database](https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires/code)
+[This will take you to the original wildfire database](https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires/code)
 
-[This will take you to the poverty database](https://www.openintro.org/data/?data=county_complete)
+[This will take you to the original poverty database](https://www.openintro.org/data/?data=county_complete)
+
+[This will take you to a drive containing the used databases(they are modified) and the notebook](https://drive.google.com/drive/folders/1srLEJzDa4cwPYw0FIF2fQwZRyUT-p54n)
 
 
 ## Introduction
