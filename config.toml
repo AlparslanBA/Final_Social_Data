@@ -1,6 +1,6 @@
 baseURL = "https://alparslanba.github.io/Final_Social_Data/"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Wildfires in the US'
 theme = "ananke"
 publishDir = "docs"
 
