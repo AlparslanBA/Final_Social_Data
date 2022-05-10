@@ -8,15 +8,11 @@ date : "2022-05-10"
 author : "Alen Hasanagic, Alparslan Ari, Simon Steen Pederen"
 ---
 
-# Introduction
+## Introduction
 
 ###### Heading level 6
 
-<p align="center">
 
-    // Your content
-
-</p>
 
     
 
