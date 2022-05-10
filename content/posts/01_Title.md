@@ -2,9 +2,13 @@
 showFullContent : true
 readingTime : false
 hideComments : true
+title : "gg"
+description : "Lorem ipsum dolor"
+date : "2019-01-25" 
+author : "Lorem Ipsum"
 ---
 
-![](https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
 
 # Introduction
     Bla bla bla bla this and that
