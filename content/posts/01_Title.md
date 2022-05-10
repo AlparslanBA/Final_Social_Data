@@ -14,7 +14,7 @@ This small chapter provides usefull links!
 
 [This will take you to the original poverty database](https://www.openintro.org/data/?data=county_complete)
 
-[This will take you to a drive containing the used databases(they are modified) and the notebook](https://drive.google.com/drive/folders/1srLEJzDa4cwPYw0FIF2fQwZRyUT-p54n)
+[This will take you to a drive containing the used databases and the notebook](https://drive.google.com/drive/folders/1srLEJzDa4cwPYw0FIF2fQwZRyUT-p54n)
 
 
 ## Introduction
