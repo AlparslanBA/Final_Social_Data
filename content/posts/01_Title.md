@@ -2,15 +2,24 @@
 showFullContent : true
 readingTime : false
 hideComments : true
-title : "gg"
+title : "Wildfires in the US"
 description : "Lorem ipsum dolor"
-date : "2019-01-25" 
-author : "Lorem Ipsum"
+date : "2022-05-10" 
+author : "Alen Hasanagic, Alparslan Ari, Simon Steen Pederen"
 ---
 
-
-
 # Introduction
+
+###### Heading level 6
+
+<p align="center">
+
+    // Your content
+
+</p>
+
+    
+
     Bla bla bla bla this and that
 
 {{< include-html "test.html" >}}
