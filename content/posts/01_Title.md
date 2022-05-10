@@ -77,3 +77,13 @@ Some of the more obvious ones to populate the weekend is Arson, Campfire childre
 
     -
 
+
+# References
+
+1: EPA. Wildland Fire Research: Health Effects Research. https://www.epa.gov/air-research/wildland-fire-research-health-effects-research. Author: EPA. Last updated: april 14, 2022. Last visited : 10/05/2022
+
+2:WHO. Wildfires. https://www.who.int/health-topics/wildfires#tab=tab_1 Author: WHO. Last visited: 10/05/2022
+
+3: Kaggle. 1.88 Million US Wildfires https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires/code Last updated: 2020. Author: RACHAEL TATMAN. Last visited: 10/05/2022
+
+4: OpenIntro. United States Counties: county_complete https://www.openintro.org/data/?data=county_complete Author: OpenIntro. Last visited: 10/05/2022
