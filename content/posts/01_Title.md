@@ -169,24 +169,17 @@ What is worth noticing is the magnitude of which the poverty rating of counties 
 
 In the first part of the research we jumped in and investigated the wildfire dataset. This showed us that Arson, campfire, children and firework are the most frequent reasons for wildfire. By comparing man made fires with nature we saw that nature fires burns the most acres and lasts the longest. This could be, as mention, because they occur in random, dry, forest areas and runs out of control. Most fires seems to occur in the weekend while they also occur the most in summer and spring. By looking at maps we can clearly see that most man-made cases occur near the southeastern side of the US. This indicates that there is need for more fire safety learning, safety investment and preparetion in these areas. 
 
-
-MANGLER
-
+After conducting an analysis of the socioeconomics dataset we found high correlation between the four initially selected attributes. This made the reasoning for focusing on poverty. Furthermore combing the datasets some correlation could be found with regards to higher levels of poverty and states grouped in the southeastern region(by looking at the maps). This seemed to compliment our investigation question but become less apparent when working with states.
 
 While we can’t say that poverty is directly related to fire, based on our results, it still seems that it plays a role for the origin. By researching others' findings we can see that this research has been done several times. This article [5] discusses how poor areas in Hamilton are more fire proven than the richer. Smoking, overcrowded houses and equipment were some of the main causes. Another article [6] also suggests that there is some influence of poverty when researching fires. A third article[7] also investigates the relation between fire and socioeconomics. Here several socioeconomic factors are investigated.  
-
-
 
 ## Summary
 
 If you have made it till the end, then cheers!
 
-Our initial research can be used to further investigate the correlation between wildfire and socioeconomic. We have not found a clear indication of a correlation between wildfires and poverty, but there still seems to be some form of a relation. This is confirmed by the different articles mentioned in the discussion part.
+Our initial research can be used to further investigate the correlation between wildfire and socioeconomic. We have not found a clear indication of a correlation between wildfires and poverty, but there still seems to be some form of a relation. This is confirmed by the different articles mentioned in the discussion part. By looking at the maps we can clearly see that the southeastern area is more at the risk than the rest of the US. Future work could mainly focus on this part of the US to further improve fire safety andprovide help and guidance to prevent further unnecessary wildfires. 
 
-Further research with modern data is needed and can hopefully be used to better determine areas at risk and provide help and guidance to prevent further unnecessary wildfires. 
-
-
-## bibliography
+## Bibliography
 
 1: EPA. Wildland Fire Research: Health Effects Research. https://www.epa.gov/air-research/wildland-fire-research-health-effects-research. Author: EPA. Last updated: april 14, 2022. Last visited : 10/05/2022
 
